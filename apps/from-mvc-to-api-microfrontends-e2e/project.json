@@ -1,9 +1,0 @@
-{
-  "name": "from-mvc-to-api-microfrontends-e2e",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "projectType": "application",
-  "sourceRoot": "apps/from-mvc-to-api-microfrontends-e2e/src",
-  "implicitDependencies": ["from-mvc-to-api-microfrontends"],
-  "// targets": "to see all targets run: nx show project from-mvc-to-api-microfrontends-e2e --web",
-  "targets": {}
-}
